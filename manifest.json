@@ -1,0 +1,13 @@
+{
+  "id": "callout-styler",
+  "name": "Callout Styler",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Style your callouts",
+  "author": "Jason Calleiro",
+  "authorUrl": "https://github.com/jjcall",
+  "js": [
+    "styles.js",
+    "main.js"
+  ]
+}
